@@ -30,7 +30,7 @@
 
 ## Файлууд
 
-| Кино | Бүрэн (HI) | Зөвхөн яриа (non-HI) |
+| Кино | Бүрэн (HI - Hearing Impaired) | Зөвхөн яриа (non-HI) |
 | --- | --- | --- |
 | **Бөгжний Нөхөрлөл** (2001) | `The Lord of the Rings - The Fellowship of the Ring (2001) Extended 2160p Bluray HDR.mn.srt` — 1817 мөр | `…Extended 2160p Bluray HDR.mn.nonHI.srt` — 1700 мөр |
 | **Хоёр Цамхаг** (2002) | `The Lord of the Rings - The Two Towers (2002) Extended Bluray 2160p HDR.mn.srt` — 2162 мөр | `…Extended Bluray 2160p HDR.mn.nonHI.srt` — 1983 мөр |
